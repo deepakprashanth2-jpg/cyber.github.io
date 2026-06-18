@@ -296,7 +296,7 @@ const APPS=[
   ["Healthcare","Protecting electronic health records, medical IoT devices, telemedicine and HIPAA / GDPR-Health compliance."],
   ["Government","Critical infrastructure defense, classified data handling, election security and national cyber commands."],
   ["Education","Student data privacy, exam integrity, ransomware resilience for schools and research IP protection."],
-  ["E-commerce","Card-not-present fraud prevention, account takeover defense, bot mitigation and checkout integrity."],
+  ["E-commerce","Card-not-专骗 fraud prevention, account takeover defense, bot mitigation and checkout integrity."],
   ["Energy & Utilities","OT/ICS security for power grids, water, oil & gas — protecting against state-sponsored sabotage."],
   ["Transport","Securing connected vehicles, avionics, rail signaling, port logistics and autonomous mobility stacks."],
   ["Personal Life","Password managers, MFA, encrypted messaging, backups, scam recognition and child online safety."]];
